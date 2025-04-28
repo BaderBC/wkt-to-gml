@@ -1,6 +1,10 @@
 {
   "name": "wkt-to-gml",
-  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaderBC/wkt-to-gml"
+  },
+  "version": "0.0.2",
   "module": "./index.js",
   "type": "module",
   "exports": {
